@@ -1,0 +1,65 @@
+.w{
+    display: flex;
+    flex-direction: row;
+}
+
+.w-left{
+    display: inline-block;
+    width: 30%;
+    background-color: #1E213A;
+    height: 1000px;
+}
+
+.w-right{
+    display: inline-block;
+    height: 1000px;
+    background-color: #100E1D;
+    width: 70%;
+    z-index: 5;
+}
+
+.w-right-wrapper{
+    height: 100vh;
+}
+
+.w-bg-cloud{
+    position: absolute;
+    opacity: 0.05;
+    z-index: 1;
+}
+
+.icon-cloud-1{
+    display: block;
+    height: 70px;
+    width: 50px;
+    position: absolute;
+    top: 60px;
+    right: 50px;
+}
+
+.icon-cloud-2{
+    display: block;
+    height: 70px;
+    width: 50px;
+    position: absolute;
+    top: 90px;
+    left: 340px;
+}
+
+.icon-cloud-3{
+    display: block;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 320px;
+    left: 335px;
+}
+
+.icon-cloud-4{
+    display: block;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top: 220px;
+    right: 80px;
+}

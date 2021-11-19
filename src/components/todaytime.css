@@ -1,0 +1,99 @@
+.t-time{
+    position: absolute;
+}
+
+.t-icon-time{
+    position: absolute;
+    height: 234px;
+    width: 202px;
+    left: 129px;
+    top: 191px;
+    border-radius: 0px;
+}
+
+.number{
+    position: absolute;
+    width: 192px;
+    height: 169px;
+    left: 154px;
+    top: 362px;
+font-style: normal;
+font-weight: 500;
+font-size: 144px;
+line-height: 169px;
+color: #E7E7EB;
+}
+
+.degrees{
+    position: absolute;
+    font-size: 48px;
+    top: 45px;
+    right: 15px;
+    color:#A09FB1;
+}
+
+.t-time-desc{
+    position: absolute;
+    width: 129px;
+    height: 42px;
+    left: 165px;
+    top: 768px;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #A09FB1;
+}
+
+.date-1{
+    position: absolute;
+    width: 51px;
+    height: 21px;
+    left: 148px;
+    top: 897px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #88869D;
+}
+
+.date-2{
+    position: absolute;
+    width: 73px;
+    height: 21px;
+    left: 238px;
+    top: 897px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #88869D;
+}
+
+.separator{
+    position: absolute;
+    width: 7px;
+    height: 21px;
+    left: 215px;
+    top: 910px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #88869D;
+}
+
+.location{
+    position: absolute;
+    width: 68px;
+    height: 21px;
+    left: 200px;
+    top: 950px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px; 
+    color: #88869D; 
+
+}

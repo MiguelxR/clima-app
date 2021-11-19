@@ -1,0 +1,46 @@
+.t{
+    display: flex;
+    height: 50vh;
+    width: 100%;
+    justify-content: center;
+}
+
+
+.box-day{
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+    Width: 120px; 
+    height: 177px;
+    background-color: #1E213A;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #ffff;
+}
+
+.t-day{
+    color: white;
+    position: relative;
+    justify-self: center;
+}
+
+.icon-box{
+    Width: 56.44px;
+    Height: 62px;
+    align-self: center;
+    position: absolute;
+}
+
+.degrees-1{
+    align-self: flex-end;
+    position: absolute;
+    padding-right: 50px;
+    color: white;
+}
+
+.degrees-2{
+    align-self: flex-end;
+    position: absolute;
+    padding-left: 50px;
+    color: #A09FB1;
+}

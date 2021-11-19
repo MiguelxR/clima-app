@@ -1,0 +1,10 @@
+.s-b{
+    color: white;
+    position: absolute;
+    width: 161px;
+    height: 40px;
+    left: 46px;
+    top: 42px;
+    background: #6E707A;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
